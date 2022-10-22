@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057c0bf2-e7d2-4108-a4c2-5a1932b74d02" name="Changes" comment="jgit">
-      <change afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
+    <list default="true" id="057c0bf2-e7d2-4108-a4c2-5a1932b74d02" name="Changes" comment="log4j">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/com/unicatstudio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/com/unicatstudio/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666464575988</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="log4j">
+      <created>1666466435147</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666466435147</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="jgit" />
-    <option name="LAST_COMMIT_MESSAGE" value="jgit" />
+    <MESSAGE value="log4j" />
+    <option name="LAST_COMMIT_MESSAGE" value="log4j" />
   </component>
 </project>
