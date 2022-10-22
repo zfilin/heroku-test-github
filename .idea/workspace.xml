@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057c0bf2-e7d2-4108-a4c2-5a1932b74d02" name="Changes" comment="init" />
+    <list default="true" id="057c0bf2-e7d2-4108-a4c2-5a1932b74d02" name="Changes" comment="jgit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/com/unicatstudio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/com/unicatstudio/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GUksq51ap4VJmwbxbY1849dmqj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666450759453</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1666451692899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666451692899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -49,5 +64,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="jgit" />
+    <option name="LAST_COMMIT_MESSAGE" value="jgit" />
   </component>
 </project>
